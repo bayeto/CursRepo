@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoriesMeu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7a79c13-80ce-448d-a1ec-bdb97cb0ff70",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
